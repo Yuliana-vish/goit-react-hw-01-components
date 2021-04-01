@@ -1,0 +1,31 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  font-family: Georgia;
+}
+.title {
+  margin: 0;
+  padding: 15px;
+  color: rgba(31, 29, 29, 0.74);
+  text-align: center;
+  background-color: #fff;
+  
+}
+
+.list {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.item {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: black;
+  padding: 5px;
+  width: calc(300px / 5);
+  font-size: 12px;
+}

@@ -1,0 +1,18 @@
+body {
+  color: black;
+  background-color: rgba(222, 227, 230, 0.719);
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.03em;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
